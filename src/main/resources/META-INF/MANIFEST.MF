@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: com.example.xmlparser_2_1_3.Launcher
-

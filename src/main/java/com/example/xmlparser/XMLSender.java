@@ -6,7 +6,7 @@
  * @version 1
  */
 
-package com.example.xmlparser_2_1_3;
+package com.example.xmlparser;
 import org.jdom2.DocType;
 import org.jdom2.Document;
 import org.jdom2.Element;
@@ -40,8 +40,8 @@ public class XMLSender {
 
         DocType docType = new DocType(
                 "message",
-                "1//PW//Example//123",
-                "https://atlas.dsv.su.se/~pierre/i/05_ass/ip1/2/2.1.3/message.dtd");
+                "xxx",
+                "https://xxx.dtd");
 
         document.setDocType(docType);
 

@@ -7,7 +7,7 @@
  * @version 1
  */
 
-package com.example.xmlparser_2_1_3;
+package com.example.xmlparser;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.TextArea;
@@ -44,8 +44,8 @@ public class Controller {
      * receiving XML documents.
      */
     private void createSocketConnection() {
-        String host = "atlas.dsv.su.se";
-        int port = 9494;
+        String host = "xxx";
+        int port = xx;
 
         try {
             socket = new Socket(host, port);

@@ -7,7 +7,7 @@
  * @version 1
  */
 
-package com.example.xmlparser_2_1_3;
+package com.example.xmlparser;
 
 import org.jdom2.Document;
 import org.jdom2.Element;

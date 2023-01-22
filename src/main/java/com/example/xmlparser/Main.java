@@ -6,7 +6,7 @@
  * @version 1
  */
 
-package com.example.xmlparser_2_1_3;
+package com.example.xmlparser;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

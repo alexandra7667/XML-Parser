@@ -1,4 +1,4 @@
-package com.example.xmlparser_2_1_3;
+package com.example.xmlparser;
 
 public class Launcher {
     public static void main(String[] args) {
